@@ -17,8 +17,16 @@
   <a href="https://www.twitter.com/dde_olla">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=Ajiboso-Adeola&style=flat-square&color=blue" alt=""/>
+
+
+---
+
+### :woman_technologist: About Me :
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. 
 <!--
 **Ajiboso-Adeola/Ajiboso-adeola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
