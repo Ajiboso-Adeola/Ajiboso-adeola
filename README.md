@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 [![Adeola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajiboso-Adeola&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajiboso-Adeola&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 
