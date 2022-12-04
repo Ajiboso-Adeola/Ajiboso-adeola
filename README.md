@@ -1,24 +1,24 @@
-# <h1 style="align-text:center"> Hello I'm Adeola 👋</h1>
+ <div align="center">
+ <h1> Hello I'm Adeola 👋</h1>
+  </div>
 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<!---  <img src="https://drive.google.com/file/d/1vhl0N9E-9_Z2DEKbQHoMSNqO41ZMRh-C/view?usp=drivesdk" /> -->
+  </div>
 <!-- links -->
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/adeola-ajiboso-a6842a183">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
+ 
+  <a href="https://www.twitter.com/dde_olla">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-</div>
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+
 <!--
 **Ajiboso-Adeola/Ajiboso-adeola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,6 +38,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajiboso-Adeola&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 
