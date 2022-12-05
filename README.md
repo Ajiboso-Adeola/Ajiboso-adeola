@@ -19,28 +19,28 @@
   </a>
 
 </div>
-
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=Ajiboso-Adeola&style=flat-square&color=blue" alt=""/>
-
+</div>
 
 ---
 
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. 
-<!--
-**Ajiboso-Adeola/Ajiboso-adeola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :telescope: I’m working as a Software Engineer and contributing to frontend web applications.
 
-Here are some ideas to get you started:
+- :seedling: Exploring Technical Content Writing and Blockchain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :zap: In my free time, I listen to music and read tech articles.
+
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/dde_olla)
+
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ajiboso-Adeola&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 [![Adeola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajiboso-Adeola&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
