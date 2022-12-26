@@ -29,7 +29,7 @@
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. 
 - :telescope: I’m working as a Software Engineer and contributing to frontend web applications.
 
-- :seedling: Exploring Technical Content Writing and Blockchain.
+- :seedling: Exploring Technical Content Writing and Web3 Content.
 
 - :zap: In my free time, I listen to music and read tech articles.
 
